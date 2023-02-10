@@ -1,0 +1,23 @@
+.play_card {
+    width: 300px;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 5px;
+    background-color: dimgrey;
+}
+.play_card_img {
+    display: block;
+    width: 100%;
+}
+.play_card_info {
+    display: flex;
+}
+.play_card_delete_button {
+    height: 20px;
+}
+.play_card_book_button {
+    height: 20px;
+}
+.play_card_booked {
+    color: red;
+}

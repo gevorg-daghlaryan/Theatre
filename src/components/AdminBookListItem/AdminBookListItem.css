@@ -1,0 +1,10 @@
+.reject_button {
+    background-color: red;
+}
+.approve_button{
+    background-color: green;
+}
+.table_tr td {
+    padding: 10px;
+    border: 1px solid #934848;
+}

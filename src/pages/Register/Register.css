@@ -1,0 +1,31 @@
+@import '../../../src/assets/css/ui/baseInput.css';
+@import '../../../src/assets/css/ui/baseButton.css';
+@import '../../../src/assets/css/components/form.css';
+
+.auth-container {
+    border: 2px solid black;
+    margin: 0 auto;
+    background: linear-gradient(#ffffff, #4e4c4c);
+    padding: 10px;
+}
+.auth-reg {
+    border-bottom: 1px solid red;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.auth_form-input {
+    margin: 0 auto;
+}
+.auth_form-button {
+    margin: 0 auto;
+}
+.auth {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}

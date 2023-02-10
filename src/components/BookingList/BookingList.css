@@ -1,0 +1,14 @@
+.user_booking_table_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user_booking_table_header {
+    padding: 5px;
+    border: 1px solid #934848;
+    color: red;
+}
+.table_tr th {
+    padding: 10px;
+    border: 1px solid #934848;
+}

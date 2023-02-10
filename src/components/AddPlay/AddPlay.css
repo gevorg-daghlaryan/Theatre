@@ -1,0 +1,12 @@
+.form_inputs {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.base-input {
+    margin-bottom: 10px;
+}
+.inputs_container {
+    display: flex;
+    justify-content: center;
+}

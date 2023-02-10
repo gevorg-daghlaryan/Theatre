@@ -1,0 +1,26 @@
+.add_play_button {
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+    height: 100px;
+    width: 100px;
+    border: none;
+    background:none;
+    cursor: pointer;
+    animation: add .6s ease-in-out infinite;
+}
+.add_play_button_img {
+    display: block;
+    width: 100%;
+}
+@keyframes add {
+    0%, 100% {
+        transform: rotate(-15deg);
+    }
+    50% {
+        transform: rotate(15deg);
+    }
+}
+.add_play_button:hover {
+    animation: none;
+}
